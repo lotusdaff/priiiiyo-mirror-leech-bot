@@ -36,7 +36,7 @@
 - Mirror/Leech by reply (soon will add for watch and clone)
 - Search for torrents with variable plugins using qBittorrent search engine
 - Many bugs has been fixed
-
+```
 ## From official and Other Repositories
 - Mirror direct download links, Torrent, and Telegram files to Google Drive
 - Mirror Mega.nz links to Google Drive (If you have non-premium Mega account, it will limit download to 5GB per 6 hours)
