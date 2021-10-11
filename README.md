@@ -1,16 +1,14 @@
-[![Priiiiyo](https://telegra.ph/file/b5d9a2910d65ce0596f59.jpg)](https://t.me/priiiiyo)
+[![Priiiiyo](https://telegra.ph/file/a19ce00c6a38e3f415d8a.jpg)](https://t.me/PriiiiyoMirrorLeechUpdates)
 
 # Priiiiyo Mirror Leech Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/priiiiyo/priiiiyo-mirror-leech-bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/priiiiyo/priiiiyo-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/priiiiyo/priiiiyo-mirror-leech-bot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/priiiiyo/priiiiyo-mirror-leech-bot)
+![GitHub Repo stars](https://img.shields.io/github/stars/PriiiiyoDevs/priiiiyo-mirror-leech-bot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/PriiiiyoDevs/priiiiyo-mirrorbot?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/PriiiiyoDevs/priiiiyo-mirror-leech-bot?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/PriiiiyoDevs/priiiiyo-mirror-leech-bot)
 ![Docker Pulls](https://img.shields.io/docker/pulls/priiiiyo/mega-sdk-python?label=Docker%20Pull)
 [![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/PriiiiyoMirrorLeechUpdates)
 
 **Priiiiyo Mirror Leech Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
-
-This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 # Features:
 
@@ -392,4 +390,4 @@ Thanks to:
 - [`yash-dk`](https://github.com/yash-dk) for implementation of qBittorrent on Python
 - [`xyou365`](https://github.com/xyou365) for Service Accounts script
 
-And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/priiiiyo/priiiiyo-mirrorbot/graphs/contributors).
+And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/PriiiiyoDevs/priiiiyo-mirrorbot/graphs/contributors).
