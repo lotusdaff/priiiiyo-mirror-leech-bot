@@ -1,22 +1,22 @@
 [![Priiiiyo](https://telegra.ph/file/b5d9a2910d65ce0596f59.jpg)](https://t.me/priiiiyo)
 
 # Priiiiyo Mirror Leech Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/PriiiiyoDevs/priiiiyo-mirror-leech-bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/PriiiiyoDevs/priiiiyo-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/PriiiiyoDevs/priiiiyo-mirror-leech-bot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/PriiiiyoDevs/priiiiyo-mirror-leech-bot)
+![GitHub Repo stars](https://img.shields.io/github/stars/priiiiyo/priiiiyo-mirror-leech-bot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/priiiiyo/priiiiyo-mirrorbot?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/priiiiyo/priiiiyo-mirror-leech-bot?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/priiiiyo/priiiiyo-mirror-leech-bot)
 ![Docker Pulls](https://img.shields.io/docker/pulls/priiiiyo/mega-sdk-python?label=Docker%20Pull)
 [![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/PriiiiyoMirrorLeechUpdates)
 
 **Priiiiyo Mirror Leech Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
-# Features:
-<details>
-    <summary><b>Click Here For More Details</b></summary>
+This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
-## By Priiiiyo Devs
+# Features:
+
+## By Priiiiyo
 - qBittorrent
-- RSS feed reader
+- Rss feed reader
 - Select files from Torrent before downloading using qbittorrent
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user)
 - Size limiting for Torrent/Direct, Zip/Unzip, Mega and Clone
@@ -36,7 +36,7 @@
 - Mirror/Leech by reply (soon will add for watch and clone)
 - Search for torrents with variable plugins using qBittorrent search engine
 - Many bugs has been fixed
-```
+
 ## From official and Other Repositories
 - Mirror direct download links, Torrent, and Telegram files to Google Drive
 - Mirror Mega.nz links to Google Drive (If you have non-premium Mega account, it will limit download to 5GB per 6 hours)
@@ -80,7 +80,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/PriiiiyoDevs/priiiiyo-mirror-leech-bot mirrorbot/ && cd mirrorbot
+git clone https://github.com/anasty17/mirror-leech-telegram-bot mirrorbot/ && cd mirrorbot
 ```
 
 - Install requirements
@@ -374,6 +374,7 @@ For Index Link with only password without username, even http auth will not work
 machine example.workers.dev password index_password
 ```
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
+
 
 # Credits
 
